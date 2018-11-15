@@ -1,2 +1,2 @@
 # cloud-formation
-My cloud formation templates.
+My CloudFormation templates.
